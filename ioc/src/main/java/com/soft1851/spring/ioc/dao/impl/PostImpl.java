@@ -83,7 +83,7 @@ public class PostImpl implements PostDao {
 
     @Override
     public int countPostByForumId(int forumId) {
-        String sql = "SELECT * FROM t_post WHERE forum_id="+forumId;
-        return jdbcTemplate.query(sql,new BeanPropertyRowMapper<>(Post.class)).size();
+        String sql = "SELECT count(post_id) FROM t_post WHERE forum_id="+forumId;
+        return jdbcTemplate.queryForObject(sql,Integer.class);
     }
 }
