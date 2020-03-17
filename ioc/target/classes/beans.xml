@@ -25,6 +25,17 @@
                 <ref bean="phone2" />
             </list>
         </property>
+        <property name="scores">
+            <map>
+                <entry key="语文" value="12"/>
+                <entry key="数学" value="12"/>
+            </map>
+        </property>
+        <property name="sex">
+            <set>
+                <value>男</value>
+            </set>
+        </property>
     </bean>
 
     <context:component-scan base-package="com.soft1851.spring.ioc.config"/>
