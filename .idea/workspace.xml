@@ -7,137 +7,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfd7e868-fe5a-44b1-b7a5-8cbd9e20369a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_annotation_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/mybatis-xml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Forum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/ForumMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/ForumService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/impl/ForumServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/ForumMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/service/ForumServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/app/SpringDataSourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/config/SpringDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/test/java/com/soft1851/spring/orm/dao/impl/ForumDaoImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/test/java/com/soft1851/spring/orm/dao/impl/PostDaoImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/config/SpringDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/config/WebApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/controller/RankController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/controller/TopicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/dao/RankDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/dao/TopicDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/dao/impl/RankDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/dao/impl/TopicDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/entity/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/entity/Topic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/service/RankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/service/TopicService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/service/impl/RankServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/service/impl/TopicServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/spider/BiLiBiLiSpider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/spider/JueJinSpider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/util/ResponseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/main/resources/templates/topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/test/java/com/soft1851/spring/webannotation/dao/impl/RankDaoImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/test/java/com/soft1851/spring/webannotation/dao/impl/TopicDaoImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/src/test/java/com/soft1851/spring/webannotation/service/impl/TopicServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/web-annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-annotation/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/webannotation/config/WebApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/webannotation/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/webannotation/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/webannotation/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/webannotation/util/ResponseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/springMVC-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/dto/MatterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Clazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/CourseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/ClazzMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/CourseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/MatterMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/TeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/vo/ClazzVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/vo/MatterVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/ClazzMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/CourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/MatterMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/TeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/mapper/ClazzMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/mapper/CourseMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/mapper/MatterMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/mapper/StudentMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/mapper/TeacherMapperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/TestHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/HelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/ForumDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/ForumDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/PostDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/PostDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/impl/ForumDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/PostImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/impl/PostDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/entity/Forum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/entity/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/impl/PostImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/HelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/HelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/bbs.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/TestHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/ForumDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/PostDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostImpl$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Forum$ForumBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Forum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Post$PostBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/logback-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/META-INF/ioc.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/impl/PostImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/HelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/orm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/orm/orm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/target/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/target/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/target/classes/spring-mybatis.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,10 +95,10 @@
       <list>
         <option value="Kotlin File" />
         <option value="Tag Library Descriptor" />
-        <option value="Interface" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -244,7 +145,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-annotation/src/main/java/com/soft1851/spring/webannotation/dao/impl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.16099356" />
@@ -252,11 +153,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.soft1851.spring.mybatis.mapper" />
       <recent name="com.soft1851.spring.mybatis.servie" />
       <recent name="com.soft1851.spring.mybatis.servie.impl" />
       <recent name="com.soft1851.spring.webannotation.dao.impl" />
       <recent name="com.soft1851.spring.web.service.impl" />
-      <recent name="com.soft1851.spring.web.dao.impl" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -274,11 +175,11 @@
       <recent name="com.soft1851.spring.web.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\SpringStudy\spring-learning\mybatis-xml\src\main\java\com\soft1851\spring\mybatis\entity" />
       <recent name="F:\java\SpringStudy\spring-learning\web-annotation\src\main\java\com\soft1851\spring\webannotation\dao\impl" />
       <recent name="F:\java\SpringStudy\spring-learning\web-annotation\src\main\java\com\soft1851\spring\webannotation\dao" />
       <recent name="F:\java\SpringStudy\spring-learning\web-annotation\src\main\java\com\soft1851\spring\webannotation\service\impl" />
       <recent name="F:\java\SpringStudy\spring-learning\web-annotation\src\main\java\com\soft1851\spring\webannotation\service" />
-      <recent name="F:\java\SpringStudy\spring-learning\web-annotation\src\main\java\com\soft1851\spring\webannotation\entity" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.soft1851.spring.web.controller" />
@@ -294,79 +195,82 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.ForumServiceTest.selectAll">
-    <configuration name="BiLiBiLiSpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.webannotation.spider.BiLiBiLiSpider" />
-      <module name="web-annotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.webannotation.spider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForumServiceImplTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MatterMapperTest.selectLimitFromTeacherInClassByDynamicSql">
+    <configuration name="ClazzMapperTest.getClazzOneToMany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-xml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.mybatis.service.impl.*" />
+          <option name="PATTERN" value="com.soft1851.spring.mybatis.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.servie.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.servie.impl.ForumServiceImplTest" />
-      <option name="METHOD_NAME" value="insert" />
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.mapper.ClazzMapperTest" />
+      <option name="METHOD_NAME" value="getClazzOneToMany" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForumServiceTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CourseMapperTest.getCourseById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-xml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.mybatis.service.*" />
+          <option name="PATTERN" value="com.soft1851.spring.mybatis.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.service" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.service.ForumServiceTest" />
-      <option name="METHOD_NAME" value="insert" />
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.mapper.CourseMapperTest" />
+      <option name="METHOD_NAME" value="getCourseById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForumServiceTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MatterMapperTest.selectLimitFromTeacherInClassByDynamicSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-xml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.mybatis.service.*" />
+          <option name="PATTERN" value="com.soft1851.spring.mybatis.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.service" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.service.ForumServiceTest" />
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.mapper.MatterMapperTest" />
+      <option name="METHOD_NAME" value="selectLimitFromTeacherInClassByDynamicSql" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMapperTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.mybatis.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.mapper.StudentMapperTest" />
       <option name="METHOD_NAME" value="selectAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RankDaoImplTest.batchInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="web-annotation" />
+    <configuration name="TeacherMapperTest.getTeacherOneToOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-xml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.webannotation.dao.impl.*" />
+          <option name="PATTERN" value="com.soft1851.spring.mybatis.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.webannotation.dao.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.webannotation.dao.impl.RankDaoImplTest" />
-      <option name="METHOD_NAME" value="batchInsert" />
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.mybatis.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.mybatis.mapper.TeacherMapperTest" />
+      <option name="METHOD_NAME" value="getTeacherOneToOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -459,21 +363,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiLiBiLiSpider" />
-      <item itemvalue="JUnit.RankDaoImplTest.batchInsert" />
       <item itemvalue="Tomcat Server.web-annotationon" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
-      <item itemvalue="JUnit.ForumServiceImplTest.insert" />
-      <item itemvalue="JUnit.ForumServiceTest.insert" />
-      <item itemvalue="JUnit.ForumServiceTest.selectAll" />
+      <item itemvalue="JUnit.MatterMapperTest.selectLimitFromTeacherInClassByDynamicSql" />
+      <item itemvalue="JUnit.TeacherMapperTest.getTeacherOneToOne" />
+      <item itemvalue="JUnit.ClazzMapperTest.getClazzOneToMany" />
+      <item itemvalue="JUnit.StudentMapperTest.selectAll" />
+      <item itemvalue="JUnit.CourseMapperTest.getCourseById" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ForumServiceTest.selectAll" />
-        <item itemvalue="JUnit.ForumServiceTest.insert" />
-        <item itemvalue="JUnit.ForumServiceImplTest.insert" />
-        <item itemvalue="JUnit.RankDaoImplTest.batchInsert" />
-        <item itemvalue="Application.BiLiBiLiSpider" />
+        <item itemvalue="JUnit.MatterMapperTest.selectLimitFromTeacherInClassByDynamicSql" />
+        <item itemvalue="JUnit.CourseMapperTest.getCourseById" />
+        <item itemvalue="JUnit.StudentMapperTest.selectAll" />
+        <item itemvalue="JUnit.ClazzMapperTest.getClazzOneToMany" />
+        <item itemvalue="JUnit.TeacherMapperTest.getTeacherOneToOne" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +435,8 @@
       <workItem from="1585366898984" duration="5514000" />
       <workItem from="1585383784795" duration="1518000" />
       <workItem from="1585392942634" duration="5129000" />
-      <workItem from="1585566867838" duration="2598000" />
+      <workItem from="1585566867838" duration="3361000" />
+      <workItem from="1585612195968" duration="21296000" />
     </task>
     <servers />
   </component>
@@ -586,10 +491,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="708" y="359" width="527" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1584700553336" />
-    <state x="32" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585295413315">
+    <state x="32" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585651198140">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="32" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585295413315" />
+    <state x="32" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585651198140" />
     <state x="627" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585384029483">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -602,22 +507,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1170" y="227" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584712393603" />
-    <state width="1867" height="467" key="GridCell.Tab.0.bottom" timestamp="1585571137386">
+    <state width="1867" height="200" key="GridCell.Tab.0.bottom" timestamp="1585655564878">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585571137386" />
-    <state width="1867" height="467" key="GridCell.Tab.0.center" timestamp="1585571137386">
+    <state width="1867" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585655564878" />
+    <state width="1867" height="200" key="GridCell.Tab.0.center" timestamp="1585655564878">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585571137386" />
-    <state width="1867" height="467" key="GridCell.Tab.0.left" timestamp="1585571137386">
+    <state width="1867" height="200" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585655564878" />
+    <state width="1867" height="200" key="GridCell.Tab.0.left" timestamp="1585655564878">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585571137386" />
-    <state width="1867" height="467" key="GridCell.Tab.0.right" timestamp="1585571137386">
+    <state width="1867" height="200" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585655564878" />
+    <state width="1867" height="200" key="GridCell.Tab.0.right" timestamp="1585655564878">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585571137386" />
+    <state width="1867" height="200" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585655564878" />
     <state width="1650" height="415" key="GridCell.Tab.1.bottom" timestamp="1585385043969">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -658,10 +563,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="7" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585365733383" />
-    <state x="1166" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585568137929">
+    <state x="1166" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585655124991">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1166" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585568137929" />
+    <state x="1166" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585655124991" />
     <state x="-7" y="0" width="974" height="1057" maximized="true" key="dock-window-1" timestamp="1584578495644">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

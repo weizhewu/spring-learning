@@ -9,13 +9,11 @@
         <module name="web" />
         <module name="ioc" />
         <module name="aop" />
-        <module name="mybatis-xml" />
         <module name="web-annotation" />
+        <module name="mybatis-xml" />
         <module name="orm" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="orm" target="1.11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
